@@ -1,12 +1,8 @@
-# 👩🏻‍💻 Luana Belmiro
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=661285&height=120&section=header"/>
 
-**`Front-end Developer Freelancer`**
 
-My name is Luana Belmiro, I'm 17 years old and I'm from Santa Catarina, Brazil.  
-I love technology and I study programming with a focus on front-end, creating websites and applications independently.  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=661285&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!+:%29;My+name+is+Luana+Belmiro;I'm+17+years+old;I+am+a+front-end+web+developer;and+freelancer)](https://git.io/typing-svg)
 
-💻 I use GitHub for version control and project portfolio.  
-🚀 Always learning and improving my skills in HTML, CSS, and JavaScript.
 
 ---
 
@@ -68,3 +64,5 @@ I love technology and I study programming with a focus on front-end, creating we
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" 
 />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=661285&height=120&section=footer"/>
