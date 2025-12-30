@@ -68,3 +68,10 @@ I love technology and I study programming with a focus on front-end, creating we
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" 
 />
+
+<picture>
+  <source media="(prefers-colors-scheme: dark)" scrset="https://raw.githubusercontent.com/lu4bel/lu4bel/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-colors-scheme: light)" scrset="https://raw.githubusercontent.com/lu4bel/lu4bel/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" scr="https://eaw.githubusercontent.com/lu4bel/lu4bel/output/github-contribution-grid-snake.svg">
+</picture>
+<br><br>
