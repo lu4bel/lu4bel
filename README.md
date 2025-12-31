@@ -1,6 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=661285&height=120&section=header"/>
 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=661285&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!+:%29;My+name+is+Luana+Belmiro;I'm+17+years+old;I+am+a+front-end+web+developer;and+freelancer)](https://git.io/typing-svg)
 
 **About me**
@@ -10,7 +9,6 @@
 - 🌐 Creating websites and web applications independently  
 - 🚀 Improving my skills with HTML, CSS, and JavaScript  
 - 📂 Building projects for my portfolio and freelancing
-
 
 ### 💻 Programming Languages
 
@@ -40,7 +38,6 @@
 />
 
 <br clear="left"/>
-
 
 ### 🛠️ Tools & Technologies
 
@@ -78,5 +75,16 @@
 />
 
 <br clear="left"/>
+
+<br/>
+
+<div align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/ac42c303-31fb-4661-9c6d-1c72b0f907ab"
+    width="600"
+  />
+</div>
+
+<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=661285&height=120&section=footer"/>
