@@ -82,7 +82,6 @@
   <img 
     src="https://github.com/user-attachments/assets/ac42c303-31fb-4661-9c6d-1c72b0f907ab"
     width="600"
-    style="border-radius: 20px;"
   />
 </div>
 <br/>
