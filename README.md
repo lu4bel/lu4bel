@@ -10,7 +10,7 @@
 - 🚀 Improving my skills with HTML, CSS, and JavaScript  
 - 📂 Building projects for my portfolio and freelancing  
 
-### 💻 Programming Languages
+### 💻 Languages & Technologies
 
 <img 
   align="left" 
@@ -36,10 +36,6 @@
   style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-
-<br clear="left"/>
-
-### 🛠️ Tools & Technologies
 
 <img 
   align="left" 
