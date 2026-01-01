@@ -4,11 +4,20 @@
 
 **About me**
 
+<img 
+  src="https://github.com/user-attachments/assets/8c5a49fe-abc7-4fa8-bdb2-dd2a8ed4b298"
+  width="180"
+  align="right"
+  style="margin-left: 40px; margin-top: 10px; border-radius: 14px;"
+/>
+
 - 💜 Passionate about technology and programming  
 - 🎨 Focused on front-end development  
 - 🌐 Creating websites and web applications independently  
 - 🚀 Improving my skills with HTML, CSS, and JavaScript  
 - 📂 Building projects for my portfolio and freelancing  
+
+<br clear="right"/>
 
 ### 💻 Languages & Technologies
 
@@ -36,7 +45,6 @@
   style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-
 <img 
   align="left" 
   alt="VS Code" 
@@ -63,7 +71,6 @@
 />
 
 <br clear="left"/>
-
 <br/>
 
 <div align="center">
@@ -72,7 +79,9 @@
     width="600"
   />
 </div>
+
 <br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=661285&height=120&section=footer"/>
+
 
