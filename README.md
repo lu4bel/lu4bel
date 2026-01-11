@@ -3,15 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=661285&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!+:%29;My+name+is+Luana+Belmiro;I'm+17+years+old;I+am+a+front-end+web+developer;and+freelancer)](https://git.io/typing-svg)
 
 **About me**
-
-<img 
-  src="https://github.com/user-attachments/assets/8c5a49fe-abc7-4fa8-bdb2-dd2a8ed4b298"
-  width="180"
-  align="right"
-  style="margin-left: 40px; margin-top: 10px; border-radius: 14px;"
-/>
-
-- 💜 Passionate about technology and programming  
+ 
 - 🎨 Focused on front-end development  
 - 🌐 Creating websites and web applications independently  
 - 🚀 Improving my skills with HTML, CSS, and JavaScript  
