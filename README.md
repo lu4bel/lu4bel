@@ -15,6 +15,42 @@
 
 <img 
   align="left" 
+  alt="Git" 
+  title="Git"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<img 
+  align="left" 
+  alt="Bootstrap" 
+  title="Bootstrap"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+/>
+
+<img 
+  align="left" 
+  alt="Figma" 
+  title="Figma"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
+/>
+
+<img 
+  align="left" 
+  alt="WordPress" 
+  title="WordPress"
+  width="30px" 
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" 
+/>
+
+<img 
+  align="left" 
   alt="HTML"
   title="HTML" 
   width="30px" 
@@ -44,22 +80,6 @@
   width="30px" 
   style="padding-right: 10px;" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" 
-/>
-<img 
-  align="left" 
-  alt="Windows" 
-  title="Windows"
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" 
-/>
-<img 
-  align="left" 
-  alt="Linux" 
-  title="Linux"
-  width="30px" 
-  style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" 
 />
 
 <br clear="left"/>
