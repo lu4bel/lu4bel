@@ -11,7 +11,7 @@
 
 <br clear="right"/>
 
-### 💻 Languages & Technologies
+### 💻 Tech Stack
 
 <img 
   align="left" 
