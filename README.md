@@ -6,7 +6,7 @@
  
 - 🎨 Focused on front-end development  
 - 🌐 Creating websites and web applications independently  
-- 🚀 Improving my skills with HTML, CSS, and JavaScript  
+- 👾 Improving my skills with HTML, CSS, and JavaScript  
 - 📂 Building projects for my portfolio and freelancing  
 
 <br clear="right"/>
